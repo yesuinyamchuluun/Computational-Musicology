@@ -16,3 +16,11 @@ Another branching of can be the level of speechiness and various languages spoke
 Debrief of the plot: 
 
 In the plot we are contrasting and comparing three playlists. First one is called "Beast Mode" with almost 10,000,000 likes on Spotify and 200 songs. Second goes the "Soft Classical Study" with 1,000 likes and 138 songs. Third goes the "Study Lofi" playlist with 7,000,000 likes and 500 songs. After several experiments and combinations of features the most interesting picture came up with accousticness on x-axis and energy on y-axis. Simultaneously we are looking at the size and color of the dots to see the level of loudness and instrumentalness, respectively. The obvious observations we can make are that first and foremost, study playlist tend to consist of songs with lower energy and higher accousticness. The other two conclusions are pretty much all of the songs in study playlists have high instrumentalness (this conslusion was obvious for playlist#2, but seeing all the dots being red in both playlist #2 and #3 is raising an interesting question). Last conclusion is that loudness level is low in study playlists and combination of all levels can be observed for the "Beast Mode". 
+![homework2](https://user-images.githubusercontent.com/125367392/220092378-4e06f5c6-c75f-4bbb-ac79-b5f870bcb746.png)
+ 
+ Playlists:
+ Beast Mode (https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP?si=7dbe12db70eb4e63)
+ Soft Classical (https://open.spotify.com/playlist/6d7BJsiKHny0PHvgn62pBU?si=d72e2ed23c1f4235)
+ Study Lofi (https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=10eff7a6577b45fe)
+
+
