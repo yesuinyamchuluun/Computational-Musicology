@@ -28,4 +28,6 @@ In the plot we are contrasting and comparing three playlists. First one is calle
  
  Study Lofi (https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=10eff7a6577b45fe)
 
-
+output: 
+  flexdashboard::flex_dashboard:
+    storyboard: true 
